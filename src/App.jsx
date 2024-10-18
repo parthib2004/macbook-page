@@ -37,7 +37,7 @@ const App = () => {
           <div className='absolute flex flex-col items-center text-white top-40 left-1/2 -translate-x-1/2'>
             <h3 className='masked text-7xl tracking-tighter font-[700]'>macbook pro.</h3>
             <h5>Oh so pro !</h5>
-            <p className='text-center w-3/4'>That's How You Do It!</p>
+            <p className='text-center w-3/4'>That's How You Do It! (Use The Scrollbar)</p>
           </div>
           <Canvas camera={{ fov: 12, position: [0, -10, 220] }}>
             <OrbitControls />
